@@ -43,7 +43,7 @@ function Sidebar() {
         <div className="user-btn absolute z-20 top-0 w-full h-full">
           <UserButton />
         </div>
-        <h1 className="capitalize">
+        <h1 className="capitalize text-[10px]">
           {firstName} {lastName}
         </h1>
       </div>
